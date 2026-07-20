@@ -1,0 +1,21 @@
+import java util.*;
+class Strings
+ {
+    public static void main(String args[])
+    {
+        
+      	// Declaring Strings using String literals
+        String s1 = "TAT";
+        String s2 = "TAT";
+
+        // Declaring Strings using new keyword
+        String s3 = new String("TAT");
+        String s4 = new String("TAT");
+
+        // Printing all the Strings
+        System.out.println(s1);
+        System.out.println(s2);
+        System.out.println(s3);
+        System.out.println(s4);
+    }
+ }
